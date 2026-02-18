@@ -40,7 +40,7 @@ export function HowItWorks() {
                             A Proven 4-Step Process to Boost Your Revenue
                         </h2>
                         <p className="text-lg text-slate-600 mb-8">
-                            We don't just process claims; we optimize your entire financial workflow. See how easy it is to get started with GoBill.
+                            We don&apos;t just process claims; we optimize your entire financial workflow. See how easy it is to get started with GoBill.
                         </p>
                         <div className="space-y-8">
                             {steps.map((step, index) => (

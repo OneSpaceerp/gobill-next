@@ -35,7 +35,7 @@ export function Footer() {
                             </span>
                         </Link>
                         <p className="text-slate-400 mb-8 max-w-sm leading-relaxed">
-                            From Billing to Brilliance. We combine certified expertise with AI-powered technology to maximize your practice's revenue.
+                            From Billing to Brilliance. We combine certified expertise with AI-powered technology to maximize your practice&apos;s revenue.
                         </p>
                         <div className="flex gap-4">
                             <a href="#" className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center hover:bg-gobill-cyan hover:text-gobill-dark transition-all">
